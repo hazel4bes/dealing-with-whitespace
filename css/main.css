@@ -13,17 +13,22 @@ body {
   color: #222;
   font-size: 1.125rem;
   margin: 0;
-  padding: .4px 5px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 article {
   padding-bottom: 1.3rem;
   border-bottom: 2px solid #999;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 article header {
   margin-bottom: 1.3rem;
   border-bottom: 2px solid #999;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 article h1 {
