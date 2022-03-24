@@ -42,13 +42,13 @@ article p {
 
 blockquote {
   font-size: 1.5rem;
-  color: #999;
+  color: #555;
   margin-bottom: 1.3rem;
 }
 
 .quote {
   font-size: 1.5rem;
-  color: #999;
+  color: #555;
 }
 
 article blockquote ~ p {
