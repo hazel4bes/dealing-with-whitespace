@@ -29,7 +29,7 @@ article header {
 article h1 {
   font-size: 1.5rem;
   margin-bottom: -1rem;
-  font-weight: normal;
+  font-weight:400;
 }
 
 article header p {
