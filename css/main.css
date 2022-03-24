@@ -18,9 +18,7 @@ body {
 article {
   padding-bottom: 1.3rem;
   border-bottom: 2px solid #999;
-  margin-top: .4px;
-  padding-right: 1em;
-  padding-left: 1em;
+  margin: .4px 5px;
 }
 
 article header {
