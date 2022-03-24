@@ -12,14 +12,12 @@ body {
   font-weight: normal;
   color: #222;
   font-size: 1.125rem;
-  margin: 0;
+  margin: 0 5px;
 }
 
 article {
   padding-bottom: 1.3rem;
   border-bottom: 2px solid #999;
-  margin-left: 5px;
-  margin-right: 5px;
 }
 
 article header {
