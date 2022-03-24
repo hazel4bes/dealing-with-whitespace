@@ -21,7 +21,7 @@ article {
 
 header {
   margin-bottom: 1.3rem;
-  border-bottom: 2px solid #555;
+  border-bottom: 2px solid #999;
 }
 
 h1 {
@@ -34,7 +34,7 @@ h1 + p {
 
 blockquote {
   font-size: 1.5rem;
-  color: #555;
+  color: #999;
   margin-bottom: 1.3rem;
 }
 
