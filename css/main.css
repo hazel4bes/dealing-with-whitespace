@@ -29,6 +29,7 @@ article header {
 article h1 {
   font-size: 1.5rem;
   margin-bottom: 0;
+  font-weight: normal;
 }
 
 article header p {
