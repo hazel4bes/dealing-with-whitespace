@@ -47,7 +47,7 @@ ol {
   list-style-type: decimal;
   color: #555;
   margin-bottom: 1.3rem;
-  padding-left: 0rem;
+  padding-left: 1em;
 }
 
 ol + p {
