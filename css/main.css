@@ -13,14 +13,14 @@ body {
   color: #222;
   font-size: 1.125rem;
   margin: 0;
+  padding-right: 1em;
+  padding-left: 1em;
 }
 
 article {
   padding-bottom: 1.3rem;
   border-bottom: 2px solid #999;
   margin-top: .4px;
-  margin-left: 13rem;
-  margin-right: 13rem;
 }
 
 article header {
